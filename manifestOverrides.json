@@ -59,19 +59,24 @@
 		"_obsolete": true
 	},
 	"io.github.jackgruber.copytags": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"io.github.jackgruber.combine-notes": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"org.joplinapp.plugins.ToggleSidebars": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"io.github.jackgruber.backup": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"io.github.jackgruber.note-overview": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"plugin.calebjohn.MathMode": {
 		"_recommended": true
@@ -83,31 +88,37 @@
 		"_recommended": true
 	},
 	"io.github.jackgruber.hotfolder": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"net.rmusin.resource-search": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"plugin.calebjohn.rich-markdown": {
 		"_recommended": true
 	},
 	"net.rmusin.joplin-table-formatter": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"cx.evermeet.tessus.menu-shortcut-toolbar": {
 		"_recommended": true
 	},
 	"com.xUser5000.bibtex": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"joplin-plugin-conflict-resolution": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"com.github.joplin.kanban": {
 		"_recommended": true
 	},
 	"joplin.plugin.templates": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"org.joplinapp.plugins.AbcSheetMusic": {
 		"_recommended": true
@@ -116,13 +127,16 @@
 		"_recommended": true
 	},
 	"joplin.plugin.benji.favorites": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"joplin.plugin.benji.persistentLayout": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"joplin.plugin.benji.quick-move": {
-		"_recommended": true
+		"_recommended": true,
+		"platforms": ["desktop"]
 	},
 	"com.github.uphy.PlantUmlPlugin": {
 		"manifest_version": 1,

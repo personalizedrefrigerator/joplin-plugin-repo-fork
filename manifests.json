@@ -3944,5 +3944,23 @@
 		"_publish_hash": "sha256:4f04185c3916b77ecc39e71f780f7b231ce796daf28a767ec771c79fb220ab6d",
 		"_publish_commit": "master:8b93499cdd76fb896862181bc0a399be3ef10d90",
 		"_npm_package_name": "joplin-plugin-vscode-style-search"
+	},
+	"com.chateloin.joplin-planner": {
+		"manifest_version": 1,
+		"id": "com.chateloin.joplin-planner",
+		"app_min_version": "2.13",
+		"version": "0.3.1",
+		"name": "Planner",
+		"description": "A plugin that helps with managing embedded todo lists in notes, and parses note tags to schedule recurring items.",
+		"author": "Miguel Chateloin",
+		"homepage_url": "https://github.com/migsc/joplin-planner",
+		"repository_url": "https://github.com/migsc/joplin-planner",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"_publish_hash": "sha256:a04ae5d7b12116fa56f95b14e75605a4c60a773da23d99ab5947cd709a96383e",
+		"_publish_commit": "main:d555966cabf6bd3632b48ca1fdd64ea3e6f74d0d",
+		"_npm_package_name": "joplin-plugin-planner"
 	}
 }

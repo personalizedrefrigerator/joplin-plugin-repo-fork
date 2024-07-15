@@ -3582,5 +3582,27 @@
 		"_publish_hash": "sha256:3a4db12d174acfaa9ad36f3b873a47de752ce7284fcefd2c0f208234acec5e4f",
 		"_publish_commit": "master:5e02d9ecfd859061df5300df591fc3b0010b4e0f",
 		"_npm_package_name": "joplin-plugin-app-lock"
+	},
+	"io.isaacoram.url-meta": {
+		"manifest_version": 1,
+		"id": "io.isaacoram.url-meta",
+		"app_min_version": "2.13",
+		"version": "1.0.3",
+		"name": "URL Meta",
+		"description": "Fetches meta tags/data from URLs in your notes.",
+		"author": "Isaac Oram",
+		"homepage_url": "https://github.com/isaacakajupiter/joplin-url-meta",
+		"repository_url": "https://github.com/isaacakajupiter/joplin-url-meta",
+		"keywords": [],
+		"categories": [],
+		"screenshots": [],
+		"icons": {},
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"_publish_hash": "sha256:23b84875c78c33d977279c35bc6253ca9c7a21c783bb829e78d277663088c1de",
+		"_publish_commit": "main:b1a42f63c33f8c19250bfacf8b43492d19be6a0f",
+		"_npm_package_name": "joplin-plugin-url-meta"
 	}
 }

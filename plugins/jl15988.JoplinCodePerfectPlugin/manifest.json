@@ -1,0 +1,20 @@
+{
+	"manifest_version": 1,
+	"id": "jl15988.JoplinCodePerfectPlugin",
+	"app_min_version": "2.8",
+	"version": "1.0.2",
+	"name": "CodePerfect",
+	"description": "Make your code blocks look perfect! Support for displaying code block line numbers, support for one-click copying.",
+	"author": "jl15988",
+	"homepage_url": "https://github.com/jl15988/joplin-plugin-code-perfect",
+	"repository_url": "https://github.com/jl15988/joplin-plugin-code-perfect",
+	"keywords": [
+		"joplin-plugin",
+		"codePerfect",
+		"code perfect"
+	],
+	"categories": [],
+	"_publish_hash": "sha256:0d00b0264d4bd69874e92788442778009b1367503b98c44029fc51882535f27f",
+	"_publish_commit": "main:945fb418456b9e2289e43f64aabb8cb673bea34f",
+	"_npm_package_name": "joplin-plugin-code-perfect"
+}

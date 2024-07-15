@@ -3800,5 +3800,35 @@
 		"_publish_hash": "sha256:ace0e3c2c313c5f85c9b8af79fa213b4791f9fdd728dc4c25706d48f03c5fbe3",
 		"_publish_commit": "master:45c38af70b7ca7d6637bf4c4137798160175b6d1",
 		"_npm_package_name": "joplin-plugin-joplinaw"
+	},
+	"io.github.personalizedrefrigerator.joplin-plugin-debug-info": {
+		"manifest_version": 1,
+		"id": "io.github.personalizedrefrigerator.joplin-plugin-debug-info",
+		"app_min_version": "2.14",
+		"version": "0.2.0",
+		"name": "Joplin debug tool",
+		"description": "A panel with information about the current note and an advanced search tool.",
+		"author": "Henry Heino",
+		"homepage_url": "https://github.com/personalizedrefrigerator/joplin-plugin-debug-info",
+		"repository_url": "https://github.com/personalizedrefrigerator/joplin-plugin-debug-info",
+		"keywords": [
+			"debug",
+			"delete",
+			"resources",
+			"info",
+			"search"
+		],
+		"categories": [
+			"developer tools",
+			"productivity",
+			"search"
+		],
+		"platforms": [
+			"desktop",
+			"mobile"
+		],
+		"_publish_hash": "sha256:a049ba62bad46c23ed7585e83e49e3309f4fc767799147b05b31f837a867d84c",
+		"_publish_commit": "master:21eeeb75ce75e5bddcf510f7f34591ab72c70c42",
+		"_npm_package_name": "joplin-plugin-debug-info"
 	}
 }
